@@ -1,0 +1,29 @@
+img {
+  background:transparent;
+  color: white;
+}
+.search{
+    display: flex;
+        /* justify-content: center; */
+        align-items: center;
+        background: grey;
+        padding: 20px;
+        position: fixed;
+        width: 100%;
+       z-index: 2;
+       top: 0;
+       /* margin-bottom: 100px; */
+       margin-left: 0;
+}
+
+.image{
+  width: 20px;
+  /* background: #f1f1f1; */
+  display: flex;
+  /* justify-content: end; */
+}
+
+.image img{
+ 
+}
+
